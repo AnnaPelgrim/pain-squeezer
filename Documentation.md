@@ -77,7 +77,7 @@ Describe your first step here.
 ### **Step 3:**
 
 etc...
-![Test Picture](https://www.google.com/search?q=3d+model+stressball&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_i9G3yd_bAhXFXhQKHcKrDfAQ_AUICigB&biw=1280&bih=703&dpr=2#imgrc=USM-cL1YYduy0M:)
+![Test Picture](https://cdn.instructables.com/FLO/VYRG/J3UFFHD5/FLOVYRGJ3UFFHD5.LARGE.jpg)
 ​
 
 ## Credits
