@@ -49,7 +49,7 @@ Please specify what your product is and what it does. This information can be us
 Provide a longer description of your product and what it is or does. This information can be used as a longer introduction for people that have been hooked by the photo or description of your project.
 
 ​
-
+(if you want to add an image write ![Alt Text](url) // Alt Text is for name of image and url is the website for the photo
 ## Why did you make it?
 
 Here you can specify the reason the project started and exists. The more the project is related to the need or challenge of a problem owner or healthcare professional, the higher the chances of it being or becoming a relevant solution.
