@@ -77,7 +77,6 @@ Describe your first step here.
 ### **Step 3:**
 
 etc...
-![Test Picture](https://cdn.instructables.com/FLO/VYRG/J3UFFHD5/FLOVYRGJ3UFFHD5.LARGE.jpg)
 ​
 
 ## Credits
